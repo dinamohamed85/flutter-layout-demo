@@ -20,5 +20,6 @@ If you want a “big picture” understanding of the layout mechanism, start wit
 ## Screenshots 🎉
 
 <div align="center">
-<img src="/screenshots/GizaPyramids.png" alt="Main Screen" />
+<img src="/screenshots/GizaPyramids1.png" alt="Main Screen" />
+<img src="/screenshots/GizaPyramids2.png" alt="Main Screen" />
 </div>
