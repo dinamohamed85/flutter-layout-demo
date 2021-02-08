@@ -4,7 +4,7 @@ A guide to building layouts in Flutter.
 
 ## Getting Started 🚀
 
-This project is a starting point for Building layouts in Flutter and simple interactivity added for the titleSection\Favorit part.
+This project is a starting point for Building layouts in Flutter and simple interactivity added for the TitleSection\Favorit part.
 
 A few resources to get you started if this is your first Flutter project:
 
